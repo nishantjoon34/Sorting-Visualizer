@@ -1,5 +1,6 @@
 # Sorting-Visualizer
 Sorting Visualizer is a webapp for easy visualization of different Sorting Algorithms. It mainly includes Algorithms like Bubble Sort, Merge Sort, Insertion Sort, Quick Sort and Selection Sort.
+
 https://nishantjoon34.github.io/Sorting-Visualizer/Tap here for a Preview
 ![Screenshot (8)](https://user-images.githubusercontent.com/91493663/137443347-8ac9a415-8ed0-48f0-94d5-fcf839d7df75.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/91493663/137443683-6cdb5352-8c62-42cd-818a-583d1a2b0c28.png)
